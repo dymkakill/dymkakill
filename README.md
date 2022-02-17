@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kostya Mirnyy!
+- I am a student of BSTU
+- Group 5, course 2, specialty POIT
